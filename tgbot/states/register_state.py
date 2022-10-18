@@ -8,5 +8,6 @@ class Register(StatesGroup):
     """
     Group of states for registering
     """
+
     name = State()
     surname = State()
