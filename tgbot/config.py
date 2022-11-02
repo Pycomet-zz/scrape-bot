@@ -14,6 +14,8 @@ TOKEN = os.getenv("TOKEN")  # configure env if you need;
 API_ID = os.getenv("API_ID")  # Input your api_id here
 API_HASH = os.getenv("API_HASH")  # Input your api_hash here
 
+DEBUG = False
+SERVER_URL = os.getenv("SERVER_URL")
 
 SESSION = os.getenv("SESSION")
 

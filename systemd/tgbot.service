@@ -1,6 +1,6 @@
 [Unit]
 After=network.target
-Description=Template Bot
+Description=Scrape Bot
 
 [Service]
 Type=simple
